@@ -2,7 +2,7 @@
 ## The Convergence of Artificial Intelligence, Software Engineering, and Behavioral Systems Analysis in Public Policy Evaluation
 
 **Author:** PhD. Valdenice Portela Silva  
-**Institution:** ICODS (Instituto de Compliance Comportamental e Organizações de Dados Sociais)
+**Institution:** ICODS (Institute of Behavior and Social Data)
 
 ---
 
