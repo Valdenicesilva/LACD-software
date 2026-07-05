@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This repository documents the foundational and operational framework of the **Digital Behavior Analysis Laboratory (LACD)**. By architecture-mapping legislative texts, corporate compliance guidelines, and affirmative action policies—specifically focusing on the behavioral impact of the Brazilian Quota Law (*Lei de Cotas*)—this project bridges the gap between Behavioral Systems Analysis (BSA), Data Science (Python), and Large Language Models (LLM / Gemini API). The core objective is to audit text-based regulatory environments, identifying hidden behavioral traps, aversive control structures, and systemic bottlenecks that hinder social equity and organizational integrity.
 
