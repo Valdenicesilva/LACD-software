@@ -54,11 +54,9 @@ This abstract auditing layer isolates structural "Behavioral Traps" without expo
 ### 🖼️ Operational Visualization
 Below is the system mapping showing how the laboratory processes these textual variables:
 
-![LACD Architecture and Systems Mapping](images/lacd_architecture.png)
+![Figure 1 - LACD Architecture and Systems Mapping](images/lacd_architecture.png)
 
-*(Note: Place your system diagram or architecture image inside an 'images' folder named 'lacd_architecture.png' to render it here)*
-
----
+*(Note: Place your architecture diagram image inside the 'images' folder named 'lacd_architecture.png')*
 
 ---
 
@@ -70,8 +68,12 @@ To validate the algorithmic and behavioral framework of the LACD, we subjected t
 When the LACD parsed the statutory text, the Gemini-driven behavioral analyzer mapped out a critical imbalance between rule definitions and functional reinforcement schedules:
 
 1. **Aversive Discriminative Stimuli ($S^D$):** The law establishes strict statistical percentages and hiring metrics. However, in the corporate environment, these function primarily as aversive control mechanisms (threat of fines, legal sanctions, and reputational damage).
+
+![Figure 2 - Statutory Aversive Stimuli Mapping](images/statutory_stimuli_mapping.png)
    
 2. **High Response Cost ($R_C$):** While the law incentivizes entry, the institutional framework within corporations drastically increases the response cost for integration. For instance, the lack of structural support, psychological safety metrics, and clear anti-discrimination operational protocols creates an environment with a high barrier to behavioral adaptation.
+
+![Figure 3 - Corporate Response Cost Barriers](images/corporate_response_cost.png)
 
 3. **Extinement of Prosocial Behaviors:** Because the corporate compliance mechanisms are designed around formal legal boxes rather than behavioral engineering, the target behaviors (such as proactive mentoring, promotion equity, and retention mapping) lack positive reinforcement. The system selects for *tokenism*—fulfilling the numerical quota while leaving the underlying behavioral dynamics unchanged.
 
