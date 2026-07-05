@@ -60,6 +60,8 @@ Below is the system mapping showing how the laboratory processes these textual v
 
 ---
 
+---
+
 ## 3. Case Study: Auditing the Brazilian Quota Law (Lei nº 12.711/2012)
 
 To validate the algorithmic and behavioral framework of the LACD, we subjected the legislative amendments of the **Brazilian Quota Law (Lei de Cotas)** to a rigorous textual audit. The objective was to identify why affirmative action targets often fail to translate into stable, long-term corporate inclusion, particularly for Black women.
